@@ -12,7 +12,6 @@ http://srimahalakshmi-portfolio.s3-website.ap-south-1.amazonaws.com
 - `index.html`
 - `style.css`
 - `resume.pdf`
-- Image assets (if any)
 
 ## 📝 CloudFront Setup Steps
 1. Selected **Amazon S3** bucket as origin.
